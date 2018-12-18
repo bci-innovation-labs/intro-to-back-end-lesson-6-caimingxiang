@@ -1,0 +1,21 @@
+1. A database is a collection of information that is organized so that it can be easily accessed, managed and updated.
+
+2. 1.Relational DBMS (RDBMS)
+Example systems: Microsoft Access and MySQL
+Example users: Codebots (and 99% of apps and websites)
+
+A RDBMS is like spreadsheet software. Data is organised into workbooks of tables containing columns and rows. The terminology for a RDBMS
+is databases of entities characterised by attributes and records thereof.
+   2.Time series DBMS
+Example systems: InfluxDB
+Example users: PipelineFX
+
+Time series DBMS is optimised for handling time series data. For starters, each entry is associated with a timestamp.
+   3.Multivalue DBMS
+Example systems: Adabas
+
+Multivalue DBMS organise data as entities with attributes and records. Unlike a spreadsheet or RDBMS, however, multivalue  databases can
+assign more than one value within an record's attribute.
+
+3.a. id:2 name:Banana
+  b. id:1 name:Apple
