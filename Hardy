@@ -1,11 +1,9 @@
 1. A database is a collection of information that is organized so that it can be easily accessed, managed and updated.
 
 2. 1.Relational database
-     Relational databases are made up of a set of tables with data that fits into a predefined category. Each table has at least one data
-     category in a column, and each row has a certain data instance for the categories which are defined in the columns.
+     A relational database is a set of tables that can be accessed or recombined in many different ways.
    2.Dstributed database
-     A distributed database is a database in which portions of the database are stored in multiple physical locations, and in which
-     processing is dispersed or replicated among different points in a network.
+     A distributed database is a database that is partially stored in different locations.
    3.Cloud database
      A cloud database is a database that has been optimized or built for a virtualized environment, either in a hybrid cloud, public cloud
      or private cloud.
